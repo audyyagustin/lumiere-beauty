@@ -2,13 +2,13 @@
 
 # Lumiere Beauty Clinic
 
-### Beauty Treatment Booking & Management System
+### Treatment Catalog, Booking & Checkout Workflow
 
 A web-based beauty clinic application designed to simplify treatment discovery, online reservations, scheduling, and payment simulation through an integrated digital platform.
 
 **Academic Group Project — Web Programming**
 
-[Live Demo](https://lumierebeauty.web.id) · [GitHub Repository](https://github.com/anggitasilmyy/lumiere-beauty)
+[Live Demo](https://lumierebeauty.web.id) · [GitHub Repository](https://github.com/audyyagustin/lumiere-beauty)
 
 ![Laravel](https://img.shields.io/badge/Laravel-10-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.1+-777BB4?style=flat&logo=php&logoColor=white)
